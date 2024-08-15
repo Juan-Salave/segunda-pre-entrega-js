@@ -1,0 +1,19 @@
+.fondo {
+    height: 800px;
+    width: 100%;
+    background-image: url('/static/img/slider-img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fondoTraspatente {
+    background-color: rgb(122, 131, 131,5);
+}
+.margen {
+    padding-top: 140px;
+}
+img {
+    height: 250px;
+    width: 250px;
+    border: solid black 3px;
+    border-radius: 10px;
+}
